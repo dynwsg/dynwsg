@@ -54,7 +54,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" class="icon-link">
+    <img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" class="icon-link">
+    <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" class="icon-link">
+    <img alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+  </a>
 </p>
+
 
 
 <h3>GitHub Stats:</h3>
