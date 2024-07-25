@@ -12,7 +12,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://discord.gg/9HTh8YGyGf" target="_blank">
-    <img src="[https://raw.githubusercontent.com/discord/discord-icons/main/Icons/discord-logo.svg](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png)" alt="Discord" height="40" width="40" />
+    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" height="40" width="40" />
   </a>
 
 <h3 align="center">Languages and Tools:</h3>
