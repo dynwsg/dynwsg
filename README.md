@@ -18,7 +18,7 @@
 
 <h3>Languages and Tools:</h3>
 <p>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" class="icon-link">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer2" class="icon-link">
     <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" class="icon-link">
