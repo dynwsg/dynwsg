@@ -51,6 +51,14 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" class="icon-link">
+    <img alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />
+  </a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" class="icon-link">
+    <img alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
+  </a>
+</p>
+
 
 
 <h3>GitHub Stats:</h3>
