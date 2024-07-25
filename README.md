@@ -58,8 +58,8 @@
 
 <h3>GitHub Stats:</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynwsg&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynwsg&show_icons=true&locale=en&layout=compact&theme=dark&cache_buster=1" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dynwsg&show_icons=true&locale=en&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dynwsg&show_icons=true&locale=en&theme=dark&cache_buster=1" />
 </p>
