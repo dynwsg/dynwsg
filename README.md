@@ -18,8 +18,8 @@
 
 <h3>Languages and Tools:</h3>
 <p>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer2" class="icon-link">
-    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" class="icon-link">
+    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
