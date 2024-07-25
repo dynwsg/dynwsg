@@ -55,8 +55,5 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynwsg&show_icons=true&locale=en&layout=compact" alt="dynwsg" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dynwsg&show_icons=true&locale=en" alt="dynwsg" />
 </p>
