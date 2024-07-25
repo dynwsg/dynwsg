@@ -52,7 +52,7 @@
     <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />
+    <img alt="Rust" width="26px" src="https://rust-lang.org/logos/rust-logo-512x512.png" style="padding-right:10px;" />
   </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
