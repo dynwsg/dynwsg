@@ -16,16 +16,6 @@
   </a>
 </p>
 
-<style>
-  .icon-link {
-    text-decoration: none;
-  }
-  .icon-link img {
-    display: inline-block;
-    vertical-align: middle;
-  }
-</style>
-
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" class="icon-link">
