@@ -36,12 +36,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-  </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
   </a>
@@ -51,20 +45,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-  </a>
-</p>
-
 
 
 <h3>GitHub Stats:</h3>
