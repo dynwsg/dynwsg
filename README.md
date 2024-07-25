@@ -12,8 +12,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://discord.gg/9HTh8YGyGf" target="_blank">
-    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40" width="40" />
   </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
