@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Dyn</h1>
 ![Typing SVG](https://raw.githubusercontent.com/dynwsg/dynwsg/main/typing.svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dynwsg&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
-</p>
+<h3>
+  A passionate full stack developer from the Windy City of Chicago, Illinois.
+</h3>
 
 - 🔭 I’m currently working on [Authority](https://authoritydev.club)
 - 🌱 I’m currently learning **Reverse Engineering & Memory**
