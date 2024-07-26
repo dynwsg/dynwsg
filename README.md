@@ -1,6 +1,4 @@
 <h1>Hi 👋, I'm Dyn</h1>
-![Typing SVG](https://raw.githubusercontent.com/dynwsg/dynwsg/main/typing.svg)
-
 <h3>
   A passionate full stack developer from the Windy City of Chicago, Illinois.
 </h3>
