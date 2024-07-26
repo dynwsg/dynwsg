@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Dyn</h1>
-<h3>A passionate full stack developer from the Windy City of Chicago, Illinois.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=A+passionate+full+stack+developer+from+the+Windy+City+of+Chicago,+Illinois.)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dynwsg&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
