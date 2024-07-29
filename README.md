@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=dynwsg&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
 </p>
 
-- 🔭 I’m currently working on [Authority](https://authoritydev.club)
-- 🌱 I’m currently learning **Reverse Engineering & Memory**
+- 🔭 I’m currently working on [Authority](https://authoritydev.club) & [SynZ](https://discord.gg/synz)
+- 🌱 I’m currently learning **Reverse Engineering & Memory Analysis**
 - 📫 How to reach me: **dyn@authorityclub.dev**
 
 <h3>Connect with me:</h3>
