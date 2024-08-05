@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Authority](https://authoritydev.club) & [SynZ](https://discord.gg/synz)
 - 🌱 I’m currently learning **Reverse Engineering & Memory Analysis**
-- 📫 How to reach me: **dyn@authorityclub.dev**
+- 📫 How to reach me: **dyn@authoritydev.club**
 
 <h3>Connect with me:</h3>
 <p>
