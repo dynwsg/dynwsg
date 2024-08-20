@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=dynwsg&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
 </p>
 
-- 🔭 I’m currently working on [Authority](https://authoritydev.club), [Coming Soon.](https://no.net) & [Fusion](https://discord.gg/getfusion)
+- 🔭 I’m currently working on Nothing at the moment.
 - 🌱 I’m currently learning **Reverse Engineering & Memory Analysis**
 - 📫 How to reach me: **dyn@authoritydev.club**
 
